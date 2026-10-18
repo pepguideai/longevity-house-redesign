@@ -68,7 +68,7 @@ window.CONTENT = window.CONTENT || {}; window.CONTENT.coaching = {
       blurb: "",
       includes: [
         "Twelve private 1:1 sessions",
-        "Full intake — bloodwork, saliva, stool review",
+        "Full intake",
         "Roundtable sourcing & referrals",
         "Personalized food & lifestyle plan",
         "Ongoing accountability between sessions",
